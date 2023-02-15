@@ -20,8 +20,8 @@
 | ✅ | Analog Clock              | 11-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Analog%20Clock) | [Click Here](https://analog-clock007.netlify.app/)    |
 | ✅ | Month Calendar            | 12-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Month%20Calendar) | [Click Here](https://month-calendar007.netlify.app/)    |
 | ✅ | Random Password Generator | 13-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Random%20Password%20Generator) | [Click Here](https://random-password-gen007.netlify.app/) |
-| ❌ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | Coming Soon    |
-| ❌ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) | Coming Soon    |
+| ✅ | Heart Trail Animation     | 14-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Heart%20Trail%20Animation) | [Click Here](https://heart-trail-animation007.netlify.app/)    |
+| ❌ | Animated Search Bar       | 15-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Animated%20Search%20Bar) | [Click Here](https://heart-trail-animation007.netlify.app/)    |
 | ❌ | Sticky Navbar             | 16-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Sticky%20Navbar) | Coming Soon    |
 | ❌ | Dark Mode Toggle          | 17-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Dark%20Mode%20Toggle) | Coming Soon    |
 | ❌ | Auto Text Effect Animation| 18-Feb-2023 | [Click Here](https://github.com/Raj210Kumari/14DaysOfJavascript/tree/main/Auto%20Text%20Effect%20Animation) |Coming Soon|
