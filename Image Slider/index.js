@@ -1,11 +1,12 @@
 var img = document.getElementById('img');
 
-var slides=['https://moneyinc.com/wp-content/uploads/2020/08/Marvel.jpg',
+var slides=[
 'https://www.pngitem.com/pimgs/m/2-22224_ironman-png-marvel-logo-iron-man-png-transparent.png', 
 'https://www.syfy.com/sites/syfy/files/styles/blog-post-embedded--mobile/public/2021/04/film-review-thor-2011.jpg',
 'https://cdn.vox-cdn.com/thumbor/kA7zzWfG178T-VdEmQI9u4W3tMM=/0x0:2100x1181/1400x933/filters:focal(882x423:1218x759):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67426100/welcome_to_a_day.0.jpg',
 'https://images.herzindagi.info/image/2022/Nov/black-panther-wakanda-forever-twitter-reactions.jpg',
-'https://oyster.ignimgs.com/wordpress/stg.ign.com/2021/02/wanda.jpg?width=1280&fit=bounds&height=720&quality=20&dpr=0.05'
+'https://oyster.ignimgs.com/wordpress/stg.ign.com/2021/02/wanda.jpg?width=1280&fit=bounds&height=720&quality=20&dpr=0.05',
+'https://metro.co.uk/wp-content/uploads/2019/12/PRC_107476143.jpg?quality=90&strip=all&zoom=1&resize=540%2C283'
 ];
 
 var Start=0;
